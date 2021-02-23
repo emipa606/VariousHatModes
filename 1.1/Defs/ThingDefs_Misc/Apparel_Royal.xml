@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--왕관-->
+  <ThingDef ParentName="ApparelBase">
+    <defName>DRVHM_05Hat</defName>
+    <description>A leader needs a proper hat.</description>
+    <label>Crown</label>
+    <graphicData>
+      <texPath>DRVHM/05Hat</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costList>
+      <Gold>35</Gold>
+      <DevilstrandCloth>40</DevilstrandCloth>
+    </costList>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToMake>2600</WorkToMake>
+      <Mass>0.1</Mass>
+      <Insulation_Cold>6</Insulation_Cold>
+      <Insulation_Heat>16</Insulation_Heat>
+      <ArmorRating_Sharp>0.4</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.4</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.4</ArmorRating_Heat>
+      <EquipDelay>0.8</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <SocialImpact>0.5</SocialImpact>
+      <PsychicSensitivity>0.1</PsychicSensitivity>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>DRVHM/05Hat</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>Royal</li>
+        <li>RoyalTier7</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+</Defs>
