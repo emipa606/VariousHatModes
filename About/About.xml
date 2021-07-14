@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Various hat modes! (Continued)</name>
   <packageId>Mlie.VariousHatModes</packageId>
@@ -8,6 +8,7 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
@@ -39,6 +40,14 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2037431747
 아래에는 각 모자의 효과나 재료를 적어뒀으니 참고해 주시면 감사하겠습니다.
 (High quality textures 사용을 권장합니다.)
 
+--- English translation (Google translate) ---
+Hi! It is called Goffney.
+The mod created this time is the hat mode.
+Vanilla doesn&apos;t seem to have a lot of pretty hats, so I made it this time.
+We have made it compatible with all hair, so we have confidence that it will be pretty no matter what rim you wear!
+Below, I have written down the effects and materials of each hat, so it would be appreciated if you could refer to it.
+(High quality textures are recommended.)
+
 [img]https://i.imgur.com/Rs6T6cr.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
@@ -50,4 +59,3 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2037431747
 [/list]
 </description>
 </ModMetaData>
-
