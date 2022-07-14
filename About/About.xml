@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Various hat modes! (Continued)</name>
   <packageId>Mlie.VariousHatModes</packageId>
@@ -12,7 +12,7 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of 고프니/Dalraes mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1741002085
 
@@ -23,16 +23,20 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2037431747
 
 - Combined all three versions to one and used translation-defs instead
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/VariousHatModes][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 안녕하세요! 고프니라고 합니다.
 이번에 만든 모드는 모자모드 입니다.
 바닐라에 이쁜모자가 별로 없는것 같아서, 이번기회에 만들어 보았습니다.
@@ -43,12 +47,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2037431747
 --- English translation (Google translate) ---
 Hi! It is called Goffney.
 The mod created this time is the hat mode.
-Vanilla doesn&apos;t seem to have a lot of pretty hats, so I made it this time.
+Vanilla doesn't seem to have a lot of pretty hats, so I made it this time.
 We have made it compatible with all hair, so we have confidence that it will be pretty no matter what rim you wear!
 Below, I have written down the effects and materials of each hat, so it would be appreciated if you could refer to it.
 (High quality textures are recommended.)
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
