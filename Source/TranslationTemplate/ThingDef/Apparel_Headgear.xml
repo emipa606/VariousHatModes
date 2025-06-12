@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: CE Hat -->
+  <DRVHM_01Hat.label>CE Hat</DRVHM_01Hat.label>
+  <!-- EN: Isn't that a hat you've seen a lot in the Steam Workshop? Somehow, it's a hat that could kill a person in one shot. -->
+  <DRVHM_01Hat.description>Isn't that a hat you've seen a lot in the Steam Workshop? Somehow, it's a hat that could kill a person in one shot.</DRVHM_01Hat.description>
+  <!-- EN: Clown Wig -->
+  <DRVHM_02Hat.label>Clown Wig</DRVHM_02Hat.label>
+  <!-- EN: For the group to be happy, someone has to step up first. This is the first step, the clown wig. -->
+  <DRVHM_02Hat.description>For the group to be happy, someone has to step up first. This is the first step, the clown wig.</DRVHM_02Hat.description>
+  <!-- EN: #1 Cap -->
+  <DRVHM_03Hat.label>#1 Cap</DRVHM_03Hat.label>
+  <!-- EN: It's a cap that you can drink without touching it. It's a product of modern civilization.(It doesn't actually satisfy hunger.) -->
+  <DRVHM_03Hat.description>It's a cap that you can drink without touching it. It's a product of modern civilization.(It doesn't actually satisfy hunger.)</DRVHM_03Hat.description>
+  <!-- EN: Magician Hat -->
+  <DRVHM_04Hat.label>Magician Hat</DRVHM_04Hat.label>
+  <!-- EN: This hat makes your hands feel faster than your eyes. -->
+  <DRVHM_04Hat.description>This hat makes your hands feel faster than your eyes.</DRVHM_04Hat.description>
+  <!-- EN: Winter Cap -->
+  <DRVHM_06Hat.label>Winter Cap</DRVHM_06Hat.label>
+  <!-- EN: Fur-finished hat, which covers the ears and is warm. -->
+  <DRVHM_06Hat.description>Fur-finished hat, which covers the ears and is warm.</DRVHM_06Hat.description>
+  <!-- EN: Mask-Cap -->
+  <DRVHM_07Hat.label>Mask-Cap</DRVHM_07Hat.label>
+  <!-- EN: It's a mask and cap that somehow looks like a criminal.\n\n The inside of the cap is finished with fur, and the mask is thick to keep the face warm. -->
+  <DRVHM_07Hat.description>It's a mask and cap that somehow looks like a criminal.
+
+ The inside of the cap is finished with fur, and the mask is thick to keep the face warm.</DRVHM_07Hat.description>
+  <!-- EN: Patterned-woolen hat -->
+  <DRVHM_08Hat.label>Patterned-woolen hat</DRVHM_08Hat.label>
+  <!-- EN: Same spec with normal woolen hat.. but looks beatuful!\n\nHaving the whole head covered, can bear a cold snap. -->
+  <DRVHM_08Hat.description>Same spec with normal woolen hat.. but looks beatuful!
+
+Having the whole head covered, can bear a cold snap.</DRVHM_08Hat.description>
+  <!-- EN: Robber mask -->
+  <DRVHM_09Hat.label>Robber mask</DRVHM_09Hat.label>
+  <!-- EN: It's a mask that terrorists often use to hide their identity.\n\n't cover your face so it's very warm. -->
+  <DRVHM_09Hat.description>It's a mask that terrorists often use to hide their identity.
+
+'t cover your face so it's very warm.</DRVHM_09Hat.description>
+  <!-- EN: Beanie -->
+  <DRVHM_10Hat.label>Beanie</DRVHM_10Hat.label>
+  <!-- EN: It's an ordinary beanie. Overall, it is thick and warm and easy to make. Many people use it. -->
+  <DRVHM_10Hat.description>It's an ordinary beanie. Overall, it is thick and warm and easy to make. Many people use it.</DRVHM_10Hat.description>
+  <!-- EN: Woolen hat -->
+  <DRVHM_11Hat.label>Woolen hat</DRVHM_11Hat.label>
+  <!-- EN: It's a wollen hat made of knitting.\n\n Having the whole head covered, can bear a cold snap. -->
+  <DRVHM_11Hat.description>It's a wollen hat made of knitting.
+
+ Having the whole head covered, can bear a cold snap.</DRVHM_11Hat.description>
+  <!-- EN: Straw hat -->
+  <DRVHM_12Hat.label>Straw hat</DRVHM_12Hat.label>
+  <!-- EN: It's a straw hat made of hay.\n\n The air is well ventilated, so it's cool even in the middle of summer. -->
+  <DRVHM_12Hat.description>It's a straw hat made of hay.
+
+ The air is well ventilated, so it's cool even in the middle of summer.</DRVHM_12Hat.description>
+  <!-- EN: Fisherman hat -->
+  <DRVHM_13Hat.label>Fisherman hat</DRVHM_13Hat.label>
+  <!-- EN: It's a must for street fashion.It protects your entire face from ultraviolet rays and prevents your skin from burning. -->
+  <DRVHM_13Hat.description>It's a must for street fashion.It protects your entire face from ultraviolet rays and prevents your skin from burning.</DRVHM_13Hat.description>
+  <!-- EN: Summer Cap -->
+  <DRVHM_14Hat.label>Summer Cap</DRVHM_14Hat.label>
+  <!-- EN: It's a cap that you can wear in the summer. It's completely dry, and the back is cool with a hole. -->
+  <DRVHM_14Hat.description>It's a cap that you can wear in the summer. It's completely dry, and the back is cool with a hole.</DRVHM_14Hat.description>
+  <!-- EN: Military jungle cap -->
+  <DRVHM_15Hat.label>Military jungle cap</DRVHM_15Hat.label>
+  <!-- EN: Must item for korean soilders. Because this hat makes even the midsummer work manageable. -->
+  <DRVHM_15Hat.description>Must item for korean soilders. Because this hat makes even the midsummer work manageable.</DRVHM_15Hat.description>
+  <!-- EN: Turban -->
+  <DRVHM_16Hat.label>Turban</DRVHM_16Hat.label>
+  <!-- EN: A towel for your hair. -->
+  <DRVHM_16Hat.description>A towel for your hair.</DRVHM_16Hat.description>
+  <!-- EN: Fedora -->
+  <DRVHM_17Hat.label>Fedora</DRVHM_17Hat.label>
+  <!-- EN: It is characterized by low-dance felt-zero. \n\n You can also make cool with sunglasses. -->
+  <DRVHM_17Hat.description>It is characterized by low-dance felt-zero. 
+
+ You can also make cool with sunglasses.</DRVHM_17Hat.description>
+</LanguageData>
