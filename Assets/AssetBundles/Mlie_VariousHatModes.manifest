@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 1622510260
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4411f6a54d2c959691324d2ce8ac83af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4411f6a54d2c959691324d2ce8ac83af
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/14Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/14Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/05Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/01Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/10Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/11Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/10Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/08Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/06Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/11Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/04Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/05Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/15Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/08Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/11Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/16Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/16Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/17Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/02Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/15Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/16Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/02Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/17Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/17Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/02Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/01Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/11Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/04Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/06Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/08Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/04Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/09Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/02Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/10Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/12Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/07Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/12Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/06Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/09Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/03Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/09Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/13Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/12Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/08Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/15Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/13Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/10Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/04Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/01Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/07Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/03Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/03Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/16Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/07Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/17Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/06Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/03Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/13Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/13Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/05Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/05Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/14Hat_south.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/12Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/15Hat.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/14Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/09Hat_north.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/07Hat_east.png
+- Assets/Data/Mlie.VariousHatModes/Textures/DRVHM/01Hat_north.png
+Dependencies: []
